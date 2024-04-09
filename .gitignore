@@ -1,0 +1,9 @@
+save_models/*
+save_features/*
+saved_MAVs/*
+CIFAR-10-images/**
+**__pycache__**
+libMR/*
+libmr.cpython-37m-x86_64-linux-gnu.so
+libmr.cpython-37m-x86_64-linux-gnu.so.zip
+saved_features/cifar10/**
